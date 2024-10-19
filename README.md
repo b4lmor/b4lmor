@@ -5,8 +5,8 @@
 ### О себе:
 
 - 💬 20 лет, живу в городе Новосибирск
-- ☕ Java Backend разработчик
-- 📚 Средний балл в университете 4.75
+- ☕ Java / Go Backend разработчик
+- 📚 Средний балл в университете - 4.75
 
 ---
 ### Мои контакты / соц. сети:
@@ -14,10 +14,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/Artelis555)
 [![VK Badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/tem4fox)
 - **Почта:** <font color="blue">foxb4lmor@gmail.com</font>
-
-[//]: # (- **Телефон**: <font color="blue">+7-952-903-05-50</font>)
-
-[//]: # (---)
 
 ---
 ### Опыт работы:
@@ -29,9 +25,9 @@
 </div>
 
 > В рамках стажировки в ЦФТ я поучаствовал в двух крупных проектах и поработал в разных командах (одна состояла из 8 человек, другая - из >20).
-> Я разрабатывал проекты, а точнее, микросервисы, из которых состоит проект. 
+> Я разрабатывал проекты, а точнее, микросервисы, из которых состоит backend проекта. 
 > Чем я там занимался?
-> - Проектировал сущности БД, миграции
+> - Проектировал сущности, связи в БД, миграции
 > - Проводил код-ревью коллег
 > - Участвовал в обсуждении предстоящих задач с опытными кураторами
 > - Проектировал API 
@@ -39,17 +35,18 @@
 > - Выступал на конференции, представляя свой проект
 > - И, конечно же, писал код и тесты, решая поставленные задачи
 
+
 ### Мои проекты:
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Stackover_BOT-blue?style=for-the-badge)](https://github.com/b4lmor/STACKOVER-BOT)
 <div style="display: flex; justify-content: space-between;">
     <div><b>Бот - трекер:</b></div>
-    <div>[Feb 2024 - Present]</div>
+    <div>[Feb 2024 - April 2024]</div>
 </div>
 
 <img align="right" width="250" height="=150" src="https://sun9-20.userapi.com/impg/5lN4NXg7XYDshqxlF8GWzkyOJ-UtyibtObhYwg/aYiJj_EaSFQ.jpg?size=576x639&quality=96&sign=294545a9da6020432dccd21cb56d7761&type=album">
 
-> Я разрабатываю проект, состоящий из 2 сервисов для отслеживания обновлений контента по ссылкам.
+> Я разработал проект, состоящий из 2 сервисов, для отслеживания обновлений контента по ссылкам.
 >
 > Отслеживание поддерживает несколько источников, а именно:
 > 1. Вопросы со StackOverflow 
@@ -65,27 +62,44 @@
 >
 > Сервисы общаются между собой как напрямую по HTTP, так и асинхронно через очередь сообщений Apache Kafka. Для хранения данных используется СУБД PostgreSQL.
 
-[![Static Badge](https://img.shields.io/badge/Fractal_generator-violet?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project4)
+---
+[![Static Badge](https://img.shields.io/badge/Multiplayer_Snake_Game-grey?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab4/TASK.md)[![Static Badge](https://img.shields.io/badge/Server_Code-blue?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab4)[![Static Badge](https://img.shields.io/badge/Client_Code-purple?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_java/lab4)
 <div style="display: flex; justify-content: space-between;">
-    <div><b>Многопоточный генератор фрактального пламени:</b></div>
-    <div>[Nov 2023 - Dec 2023]</div>
+    <div><b>Многопользовательская игра "Snake":</b></div>
+    <div>[Sep 2024 - Oct 2024]</div>
 </div>
 
-<img align="right" width="250" height="=150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFsZzYyaWw4cWRrNWxxY3ljdGxqNXA2emptaGRkeTUycHFzM3RxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HQcblWVtPE7kX7hHoo/giphy.gif">
+<img align="right" width="250" height="=150" src="https://sun9-79.userapi.com/s/v1/ig2/Wk4yO-BCjz9jRws00JPV2tZ53HK0uFfH5ok5jBi7Gei9WaRoHTZVQlDeDa69XR3uskzMgkEtw2b1tPAZ7a7z4Dqq.jpg?quality=95&as=32x17,48x26,72x39,108x59,160x87,240x130,360x195,480x260,540x293,640x347,720x390,1080x586,1228x666&from=bu&u=aryjsGBxnWdGreTbkzoxA3Q2oddMT98OYiozx5CTB6Y&cs=1228x666">
 
-> Данный проект написан с целью изучения параллелизма и применения математических алгоритмов на практике.
-> В основе алгоритма генерации фрактального пламени лежит Chaos Game. 
-> Также проект получил расширение, и я реализовал генерацию "анимированных" фракталов.
-> Помимо прочего, проект покрыт модульными тестами.
+> Улучшенная версия игры, которую все знают с детства. 
+> 
+> Для реализации я разделил приложение на две основных компоненты:
+> + Серверная часть на Go
+> + Gui-часть на Java (Spring + Swing)
+> 
+> Компоненты общаются между собой через gRPC API. Бинарный формат сообщений позволяет передавать сообщения быстрее, если сравнивать с JSON
+> 
+> Пользователи (разные серверные части), в свою очередь, общаются между собой через protobuf по единому внешнему протоколу.
+> 
+> Проект выделяется хорошо продуманной структурой кода и большим объёмом работы.
 
-#### Прочие проекты:
+## Прочие проекты:
 
+### Java:
+
+[![Static Badge](https://img.shields.io/badge/Fractal_generator-violet?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project4)
 [![Static Badge](https://img.shields.io/badge/Hangman_game-green?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project1)
-[![Static Badge](https://img.shields.io/badge/Snake_game-yellow?style=for-the-badge)](https://github.com/b4lmor/NSU-OOP-JAVA/tree/master/lab-3)
 [![Static Badge](https://img.shields.io/badge/Maze_generator-red?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project2)
 [![Static Badge](https://img.shields.io/badge/log_analyzer-cyan?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project3)
 [![Static Badge](https://img.shields.io/badge/NSU_Motors-blue?style=for-the-badge)](https://github.com/b4lmor/NSU-OOP-JAVA/tree/master/lab-4)
 [![Static Badge](https://img.shields.io/badge/CHAT-pink?style=for-the-badge)](https://github.com/b4lmor/NSU-OOP-JAVA/tree/master/lab-5)
+
+### Golang:
+
+[![Static Badge](https://img.shields.io/badge/Copies_In_Local_Network-violet?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab1/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab1)
+[![Static Badge](https://img.shields.io/badge/TCP_File_Transfering-g?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab2/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab2)
+[![Static Badge](https://img.shields.io/badge/Place_Parser-red?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab3/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab3)
+[![Static Badge](https://img.shields.io/badge/SOCKS_Proxy-yellow?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab5/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab5)
 
 ### Технические умения:
 <div align="center">
@@ -132,24 +146,27 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
-	<code><img width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-prometheus-282488.png?f=webp" alt="prometheus" title="prometheus"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="50" src="https://img.icons8.com/?size=512&id=44442&format=png" alt="Go" title="Go"/></code>
+	<code><img width="50" src="https://security.humanativaspa.it/sec/wp-content/uploads/2022/11/protobuf-1.png" alt="protobuf" title="protobuf"/></code>
+	<code><img width="50" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" title="gRPC"/></code>
 </div>
 
 ### Образование / компетенции / достижения:
 
 + Студент Новосибирского Государственного Университета, Очная форма обучения, Факультет информационных технологий, 09.03.01 Информатика и вычислительная техника / Программная инженерия и компьютерные науки (Бакалавриат), годы обучения: 2022 - 2026, 3 курс
-+ В данный момент завершаю второй семестр курса "[Backend-разработка на Java](https://fintech.tinkoff.ru/academy/java/)" от **Тинькофф Образование**, окончил первый семестр на полный балл
++ Закончил два семестра курса "[Backend-разработка на Java](https://fintech.tinkoff.ru/academy/java/)" от **Тинькофф Образование**, окончил оба семестра на полный балл ([ссылка на сертификат](https://drive.google.com/file/d/1KFcQK7F3SuVgxsBbZqsP62p8SjsfODZP/view))
 + Английский язык (уровень C1)
 + Паттерны проектирования клиенто-ориентированных архитектур
 + Принципы ООП
 + Алгоритмы и структуры данных на Си ([ссылка на репозиторий](https://github.com/b4lmor/C-Labs))
 + Линейная алгебра
-+ Математический анализ
++ Математический анализ 
 + Призёр хакатона "Deepcode Challenge" ([ссылка на диплом](https://drive.google.com/file/d/1aIbca_dCIOMWrtCKad5eDeZNUdR04NGy/view?usp=sharing))
 + Курс от ELTEX "Основы сетевых технологий" ([ссылка на сертификат](https://drive.google.com/file/d/1wgpe6H2uMnlvTnnvtosSLJAjTNNoI6Nv/view?usp=sharing))
 + Проект персонального развития "Интенсив ШИФТ", направление Backend ([ссылка на сертификат](https://drive.google.com/file/d/1SvPDEww39dgVfAryH3OP2cdGBxM08pLY/view?usp=sharing))
 + Школьный курс по AstraLinux ([ссылка на сертификат](https://drive.google.com/file/d/1gHHT5gUrlIFD905O4scWIo4F9Zv98oW2/view?usp=sharing))
+
