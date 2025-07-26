@@ -4,28 +4,49 @@
 
 ### О себе:
 
-- 💬 20 лет, живу в городе Новосибирск
-- ☕ Java / Go Backend разработчик
-- 📚 Средний балл в университете - 4.75
+- 💬 Мне 21 год, живу в городе Новосибирск
+- ☕ Java backend-разработчик
+- 📚 Средний балл в университете — 4,75
 
 ---
 ### Мои контакты / соц. сети:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b4lmor)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/Artelis555)
 [![VK Badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/tem4fox)
-- **Почта:** <font color="blue">foxb4lmor@gmail.com</font>
+- **Рабочая почта:** <font color="blue">foxb4lmor@gmail.com</font>
 
 ---
-### Опыт работы:
 
-[![CFT Badge](https://img.shields.io/badge/CFT-SHIFTLab-red?style=for-the-badge&logo=CFT&logoColor=red)](https://team.cft.ru/events/130)
+### 💼 Опыт работы:
+
+[![CFT Badge](https://img.shields.io/badge/ЦФТ-Лояльность-yellow?style=for-the-badge&logo=CFT&logoColor=red)](https://team.cft.ru/events/130)
+
 <div style="display: flex; justify-content: space-between;">
-    <div><b>ШИФТ Учебно-исследовательская лаборатория ЦФТ:</b></div>
-    <div>[Oct 2023 - Present]</div>
+    <div><b>ЦФТ. Отдел лояльности</b></div>
+    <div><b>[Nov 2024 - Present]</b></div>
+</div>
+
+> На данный момент я работаю в отделе лояльности ЦФТ. Мы помогаем разным компаниям иметь свою бонусную программу и предоставляем ПО для управления ею. 
+> 
+> Чем я там занимался?
+> - Писал микросервис для обработки логов
+> - Писал скрипты и триггеры для БД
+> - Работал с большими легаси-проектами на Java (8, 11, 17) и Groovy
+> - Рефакторил огромные модули, делил их на несколько логических составляющих
+> - Анализировал API и писал **OpenAPI** документацию
+
+
+---
+
+[![CFT Badge](https://img.shields.io/badge/ЦФТ-SHIFTLab-red?style=for-the-badge&logo=CFT&logoColor=red)](https://team.cft.ru/events/130)
+<div style="display: flex; justify-content: space-between;">
+    <div><b>ШИФТ Учебно-исследовательская лаборатория ЦФТ</b></div>
+    <div><b>[Oct 2023 - Oct 2024]</b></div>
 </div>
 
 > В рамках стажировки в ЦФТ я поучаствовал в двух крупных проектах и поработал в разных командах (одна состояла из 8 человек, другая - из >20).
 > Я разрабатывал проекты, а точнее, микросервисы, из которых состоит backend проекта. 
+> 
 > Чем я там занимался?
 > - Проектировал сущности, связи в БД, миграции
 > - Проводил код-ревью коллег
@@ -33,20 +54,39 @@
 > - Проектировал API 
 > - Писал клиентские библиотеки для удобного взаимодействия микросервисов
 > - Выступал на конференции, представляя свой проект
-> - И, конечно же, писал код и тесты, решая поставленные задачи
+> - Писал код и тесты, выполняя поставленные задачи
 
+---
 
-### Мои проекты:
+### 🌠 Мои проекты:
+
+[![Static Badge](https://img.shields.io/badge/HomeVault-blue?style=for-the-badge&color=pink)](https://github.com/HomeVaultNSU)
+<div style="display: flex; justify-content: space-between;">
+    <div><b>HomeVault:</b></div>
+    <div><b>[Feb 2025 - May 2025]</b></div>
+</div>
+
+> В рамках курса "Управление производственной практикой и разработки ПО" в ВУЗе, я, работая в команде со своими одногруппниками, разработал проект **HomeVault** - доступное файловое хранилище, которое может поставить каждый у себя дома.
+> Основная цель курса - познакомить студентов с различными инструментами и технологиями и подходами командной разработки ПО, такими как Kanban, Scrum, Agile, TBD, Git flow и т.д.
+> 
+> Я был в роли ПМ и, по совместительству, ведущим back-end разработчиком, ввиду своего бэкграунда. В мои задачи входило:
+> - Составление задач (по SMART)
+> - Написание бизнес-кода / тестов, в рамках конкретных задач
+> - Проектирование архитектуры серверной части хранилища
+> - Представление проекта и промежуточных результатов на семинарах
+> - Создание документации проекта (OpenAPI)
+
+---
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Stackover_BOT-blue?style=for-the-badge)](https://github.com/b4lmor/STACKOVER-BOT)
 <div style="display: flex; justify-content: space-between;">
     <div><b>Бот - трекер:</b></div>
-    <div>[Feb 2024 - April 2024]</div>
+    <div><b>[Feb 2024 - April 2024]</b></div>
 </div>
 
 <img align="right" width="250" height="=150" src="https://sun9-20.userapi.com/impg/5lN4NXg7XYDshqxlF8GWzkyOJ-UtyibtObhYwg/aYiJj_EaSFQ.jpg?size=576x639&quality=96&sign=294545a9da6020432dccd21cb56d7761&type=album">
 
-> Я разработал проект, состоящий из 2 сервисов, для отслеживания обновлений контента по ссылкам.
+> Я разработал проект, состоящий из двух сервисов, для отслеживания обновлений контента по ссылкам.
 >
 > Отслеживание поддерживает несколько источников, а именно:
 > 1. Вопросы со StackOverflow 
@@ -62,30 +102,8 @@
 >
 > Сервисы общаются между собой как напрямую по HTTP, так и асинхронно через очередь сообщений Apache Kafka. Для хранения данных используется СУБД PostgreSQL.
 
----
-[![Static Badge](https://img.shields.io/badge/Multiplayer_Snake_Game-grey?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab4/TASK.md)[![Static Badge](https://img.shields.io/badge/Server_Code-blue?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab4)[![Static Badge](https://img.shields.io/badge/Client_Code-purple?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_java/lab4)
-<div style="display: flex; justify-content: space-between;">
-    <div><b>Многопользовательская игра "Snake":</b></div>
-    <div>[Sep 2024 - Oct 2024]</div>
-</div>
 
-<img align="right" width="250" height="=150" src="https://sun9-79.userapi.com/s/v1/ig2/Wk4yO-BCjz9jRws00JPV2tZ53HK0uFfH5ok5jBi7Gei9WaRoHTZVQlDeDa69XR3uskzMgkEtw2b1tPAZ7a7z4Dqq.jpg?quality=95&as=32x17,48x26,72x39,108x59,160x87,240x130,360x195,480x260,540x293,640x347,720x390,1080x586,1228x666&from=bu&u=aryjsGBxnWdGreTbkzoxA3Q2oddMT98OYiozx5CTB6Y&cs=1228x666">
-
-> Улучшенная версия игры, которую все знают с детства. 
-> 
-> Для реализации я разделил приложение на две основных компоненты:
-> + Серверная часть на Go
-> + Gui-часть на Java (Spring + Swing)
-> 
-> Компоненты общаются между собой через gRPC API. Бинарный формат сообщений позволяет передавать сообщения быстрее, если сравнивать с JSON
-> 
-> Пользователи (разные серверные части), в свою очередь, общаются между собой через protobuf по единому внешнему протоколу.
-> 
-> Проект выделяется хорошо продуманной структурой кода и большим объёмом работы.
-
-## Прочие проекты:
-
-### Java:
+### ⛳️ Прочие проекты:
 
 [![Static Badge](https://img.shields.io/badge/Fractal_generator-violet?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project4)
 [![Static Badge](https://img.shields.io/badge/Hangman_game-green?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project1)
@@ -93,15 +111,11 @@
 [![Static Badge](https://img.shields.io/badge/log_analyzer-cyan?style=for-the-badge)](https://github.com/b4lmor/Tinkoff-Backend/tree/main/src/main/java/edu/project3)
 [![Static Badge](https://img.shields.io/badge/NSU_Motors-blue?style=for-the-badge)](https://github.com/b4lmor/NSU-OOP-JAVA/tree/master/lab-4)
 [![Static Badge](https://img.shields.io/badge/CHAT-pink?style=for-the-badge)](https://github.com/b4lmor/NSU-OOP-JAVA/tree/master/lab-5)
+[![Static Badge](https://img.shields.io/badge/Multiplayer_Snake_Game-grey?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab4/TASK.md)[![Static Badge](https://img.shields.io/badge/Server_Code-blue?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab4)
 
-### Golang:
+---
 
-[![Static Badge](https://img.shields.io/badge/Copies_In_Local_Network-violet?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab1/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab1)
-[![Static Badge](https://img.shields.io/badge/TCP_File_Transfering-g?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab2/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab2)
-[![Static Badge](https://img.shields.io/badge/Place_Parser-red?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab3/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab3)
-[![Static Badge](https://img.shields.io/badge/SOCKS_Proxy-yellow?style=for-the-badge)](https://github.com/b4lmor/network_basics/blob/main/network2_common/lab5/TASK.md)[![Static Badge](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/b4lmor/network_basics/tree/main/network2_go/lab5)
-
-### Технические умения:
+### 🎯 Технические умения:
 <div align="center">
 	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGaZ3w0npFKf-9PmHSuUdLBqcX-YpBUI6SJaoYJIMgw&s" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
@@ -131,6 +145,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase"/></code>
 	<code><img width="50" src="https://flywaydb.org/wp-content/uploads/2020/12/cropped-favicon.png" alt="FlywayDB" title="FlywayDB"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code>
+	<code><img width="50" src="https://avatars.githubusercontent.com/u/297723?v=4" alt="Spock" title="Spock"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mocikto" title="mocikto"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" alt="Testcontainers" title="Testcontainers"/></code>
@@ -139,9 +154,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2m5R0Zj18S0j4Ni_QSQumiePq6A5vOzaIIGzt9joBQ&s" alt="MPI" title="MPI"/></code>
 	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSRnEKwWjXmhUOMsouj8rnKrJBwEu0JTLJN7r9cSsPQ&s" alt="openMP" title="openMP"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s" alt="Oracle" title="Oracle"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" alt="Cassandra" title="Cassandra"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
@@ -153,20 +168,35 @@
 	<code><img width="50" src="https://img.icons8.com/?size=512&id=44442&format=png" alt="Go" title="Go"/></code>
 	<code><img width="50" src="https://security.humanativaspa.it/sec/wp-content/uploads/2022/11/protobuf-1.png" alt="protobuf" title="protobuf"/></code>
 	<code><img width="50" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" title="gRPC"/></code>
+	<code><img width="50" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elastic search" title="Elastic search"/></code>
+	<code><img width="50" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="Log stash" title="Log stash"/></code>
+	<code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" alt="Kibana" title="Kibana"/></code>
+	<code><img width="50" src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="cypress" title="cypress"/></code>
+	<code><img width="50" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" title="jmeter"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/2048px-ChatGPT-Logo.svg.png" alt="chatgpt" title="chatgpt"/></code>
 </div>
 
-### Образование / компетенции / достижения:
+---
 
-+ Студент Новосибирского Государственного Университета, Очная форма обучения, Факультет информационных технологий, 09.03.01 Информатика и вычислительная техника / Программная инженерия и компьютерные науки (Бакалавриат), годы обучения: 2022 - 2026, 3 курс
-+ Закончил два семестра курса "[Backend-разработка на Java](https://fintech.tinkoff.ru/academy/java/)" от **Тинькофф Образование**, окончил оба семестра на полный балл ([ссылка на сертификат](https://drive.google.com/file/d/1KFcQK7F3SuVgxsBbZqsP62p8SjsfODZP/view))
-+ Английский язык (уровень C1)
-+ Паттерны проектирования клиенто-ориентированных архитектур
+<div align="center">
+  <strong>
+    Java • HTTP • SSH • REST • JSON • JWT • WebSocket • Kafka • Git • GitHub • GitLab • Bitbucket • IntelliJ IDEA • Postman • Jira • SonarQube • Swagger • Spring • Spring Boot • Maven • Gradle • SQL • JDBC • JOOQ • Hibernate • Liquibase • FlywayDB • JUnit • Spock • Mockito • Lombok • Testcontainers • Tomcat • C • C++ • MPI • OpenMP • Python • PostgreSQL • Oracle • Cassandra • Docker • Kubernetes • CI/CD • Grafana • Windows • Linux • Ubuntu • Go • Protobuf • gRPC • Elasticsearch • Logstash • Kibana • Cypress • JMeter • ChatGPT
+  </strong>
+</div>
+
+---
+
+### 🏅 Образование / компетенции / достижения:
+
++ Студент Новосибирского Государственного Университета, Очная форма обучения, Факультет информационных технологий, 09.03.01 Информатика и вычислительная техника / Программная инженерия и компьютерные науки (Бакалавриат), годы обучения: 2022 - 2026, 4 курс
++ Закончил два семестра курса "**Backend-разработка на Java**" от **Т-Образование** ([ссылка на сертификат](https://drive.google.com/file/d/1KFcQK7F3SuVgxsBbZqsP62p8SjsfODZP/view))
++ Английский язык (уровень ~B2-C1)
++ Паттерны проектирования клиентоориентированных архитектур архитектур
 + Принципы ООП
 + Алгоритмы и структуры данных на Си ([ссылка на репозиторий](https://github.com/b4lmor/C-Labs))
 + Линейная алгебра
 + Математический анализ 
-+ Призёр хакатона "Deepcode Challenge" ([ссылка на диплом](https://drive.google.com/file/d/1aIbca_dCIOMWrtCKad5eDeZNUdR04NGy/view?usp=sharing))
++ Теория вероятностей и математическая статистика
 + Курс от ELTEX "Основы сетевых технологий" ([ссылка на сертификат](https://drive.google.com/file/d/1wgpe6H2uMnlvTnnvtosSLJAjTNNoI6Nv/view?usp=sharing))
 + Проект персонального развития "Интенсив ШИФТ", направление Backend ([ссылка на сертификат](https://drive.google.com/file/d/1SvPDEww39dgVfAryH3OP2cdGBxM08pLY/view?usp=sharing))
 + Школьный курс по AstraLinux ([ссылка на сертификат](https://drive.google.com/file/d/1gHHT5gUrlIFD905O4scWIo4F9Zv98oW2/view?usp=sharing))
-
